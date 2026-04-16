@@ -35,16 +35,15 @@
 </p>
 <br />
 
-<!-- About Section -->
- # About me
- 
-<p>
-  
- ✌️ &emsp; Enjoy to do programming <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: szatrio@gmail.com<br/><br/>
+# 🛠️ Behind the Code
 
+<p>
+  🚀 &emsp; <b>Focus:</b> Building high-performance microservices and secure APIs. <br/><br/>
+  💡 &emsp; <b>Philosophy:</b> Writing clean, maintainable code is not just a job—it's a craft.<br/><br/>
+  🌱 &emsp; <b>Current Stack:</b> Deep diving into Spring Boot 3, Cloud Native patterns, and Frontend integration.<br/><br/>
+  📫 &emsp; <b>Let's Talk:</b> <a href="mailto:szatrio@gmail.com">szatrio@gmail.com</a>
 </p>
+
 <hr/>
 
 <p align="center">
