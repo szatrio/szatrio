@@ -10,7 +10,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Software Engineer from <b>Blitar, East Java, Indonesia</b> 」
+    「 Embedded Systems & Software Engineer based in Blitar, East Java, Indonesia 」
     <br>
     <br>
   </samp>
