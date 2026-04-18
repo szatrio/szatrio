@@ -38,9 +38,10 @@
 # 🛠️ Behind the Code
 
 <p>
-  🚀 &emsp; <b>Focus:</b> Building high-performance microservices and secure APIs. <br/><br/>
-  💡 &emsp; <b>Philosophy:</b> Writing clean, maintainable code is not just a job—it's a craft.<br/><br/>
-  🌱 &emsp; <b>Current Stack:</b> Deep diving into Spring Boot 3, Cloud Native patterns, and Frontend integration.<br/><br/>
+  🚀 &emsp; <b>Main Focus:</b> Embedded Systems & Firmware development, specializing in C. <br/><br/>
+  ☕ &emsp; <b>Software Engineering:</b> Architecting high-performance microservices and secure APIs with Java & Spring Boot 3.<br/><br/>
+  💡 &emsp; <b>Philosophy:</b> Writing clean, maintainable code is a craft, from the hardware level to the cloud.<br/><br/>
+  🌱 &emsp; <b>Current Stack:</b> Deep diving into Cloud Native patterns and Frontend integration.<br/><br/>
   📫 &emsp; <b>Let's Talk:</b> <a href="mailto:szatrio@gmail.com">szatrio@gmail.com</a>
 </p>
 
