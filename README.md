@@ -41,23 +41,10 @@
   🚀 &emsp; <b>Main Focus:</b> Embedded Systems & Firmware development, specializing in C. <br/><br/>
   ☕ &emsp; <b>Software Engineering:</b> Architecting high-performance services and secure APIs.<br/><br/>
   💡 &emsp; <b>Philosophy:</b> Writing clean, maintainable code is a craft, from the hardware level to the cloud.<br/><br/>
-  🌱 &emsp; <b>Current Stack:</b> Deep diving into Cloud Native patterns and Frontend integration.<br/><br/>
   📫 &emsp; <b>Let's Talk:</b> <a href="mailto:szatrio@gmail.com">szatrio@gmail.com</a>
 </p>
 
 <hr/>
-
-<p align="center">
-  <a href="https://github.com/szatrio">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=szatrio&theme=radical&border=7F3FBF&background=0D1117" alt="Satrio's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/szatrio">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szatrio&theme=radical" alt="Satrio Utomo's GitHub Contribution"/>
-  </a>
-</p>
 
 <a> 
     <a href="https://github.com/szatrio"><img alt="Satrio Utomo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=szatrio&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
