@@ -10,7 +10,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Embedded Systems & Software Engineer based in Blitar, East Java, Indonesia 」
+    「 Embedded Systems & Software Engineer from Indonesia 」
     <br>
     <br>
   </samp>
