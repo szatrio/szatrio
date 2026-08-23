@@ -10,7 +10,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Embedded Systems & Software Engineer from Indonesia 」
+    「 Software Engineer from Indonesia 」
     <br>
     <br>
   </samp>
@@ -38,7 +38,6 @@
 # 🛠️ Behind the Code
 
 <p>
-  🚀 &emsp; <b>Main Focus:</b> Embedded Systems & Firmware development, specializing in C. <br/><br/>
   ☕ &emsp; <b>Software Engineering:</b> Architecting high-performance services and secure APIs.<br/><br/>
   💡 &emsp; <b>Philosophy:</b> Writing clean, maintainable code is a craft, from the hardware level to the cloud.<br/><br/>
   📫 &emsp; <b>Let's Talk:</b> <a href="mailto:szatrio@gmail.com">szatrio@gmail.com</a>
