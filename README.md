@@ -24,7 +24,7 @@
 <img
   src="./assets/embedded-banner.png"
   alt="Embedded Engineer"
-  width="850"
+  width="550"
 />
 
 </div>
@@ -78,22 +78,16 @@
 
 ---
 
-<div align="center">
+<hr/>
 
-<a href="https://github.com/szatrio">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=szatrio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent"
-    alt="GitHub Stats"
-  />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&v=1&cache_seconds=0" alt="Daily Quote" />
+</p>
+
+<a> 
+    <a href="https://github.com/szatrio"><img alt="Satrio Utomo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=szatrio&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/szatrio"><img alt="Satrio Utomo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=szatrio&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
 </a>
 
-<a href="https://github.com/szatrio">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=szatrio&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    alt="Most Used Languages"
-  />
-</a>
-
-</div>
+<hr/>
