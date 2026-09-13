@@ -1,60 +1,99 @@
+<div align="center">
 
+# Satrio Utomo 
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am Satrio
-        </samp>
-</h3>
+###  Firmware Engineer | Embedded Systems | Software Engineer
 
-
-<p align="center"> 
-  <samp>
-    <br>
-    「 Software Engineer from Indonesia 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
- <a href="https://szatrio.github.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="szatrio" />
- </a>
- <a href="https://linkedin.com/in/szatrio" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="szatrio"/>
- </a>
- <a href="https://twitter.com/szatrio" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/szatrio" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="szatrio" />
- </a> 
- <a href="https://facebook.com/szatrio" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="szatrio"  />
-  </a> 
-</p>
-<br />
-
-# 🛠️ Behind the Code
+`turning software into systems that interact with the real world.`
 
 <p>
-  ☕ &emsp; <b>Software Engineering:</b> Architecting high-performance services and secure APIs.<br/><br/>
-  💡 &emsp; <b>Philosophy:</b> Writing clean, maintainable code is a craft, from the hardware level to the cloud.<br/><br/>
-  📫 &emsp; <b>Let's Talk:</b> <a href="mailto:szatrio@gmail.com">szatrio@gmail.com</a>
+  <a href="https://linkedin.com/in/szatrio">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:szatrio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<hr/>
+</div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&v=1&cache_seconds=0" alt="Daily Quote" />
-</p>
+---
 
-<a> 
-    <a href="https://github.com/szatrio"><img alt="Satrio Utomo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=szatrio&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/szatrio"><img alt="Satrio Utomo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=szatrio&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+<div align="center">
+
+<img
+  src="./assets/embedded-banner.png"
+  alt="Embedded Engineer"
+  width="850"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Firmware in code. Hardware in action.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://tiktok.com/@chibinet">
+        <img src="https://img.shields.io/badge/TikTok-Cibinet-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/cibinet">
+        <img src="https://img.shields.io/badge/Instagram-Cibinet-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://facebook.com/cibineto">
+        <img src="https://img.shields.io/badge/Facebook-Cibinet-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/@cibinet">
+        <img src="https://img.shields.io/badge/YouTube-Cibinet-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://x.com/szatrio">
+        <img src="https://img.shields.io/badge/X%2FTwitter-%40szatrio-000000?style=flat-square&logo=x&logoColor=white" alt="X/Twitter">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://threads.com/szatrio">
+        <img src="https://img.shields.io/badge/Threads-%40szatrio-000000?style=flat-square&logo=threads&logoColor=white" alt="Threads">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/szatrio">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=szatrio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent"
+    alt="GitHub Stats"
+  />
 </a>
 
-<hr/>
+<a href="https://github.com/szatrio">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=szatrio&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    alt="Most Used Languages"
+  />
+</a>
 
-![Satrio Utomo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=szatrio&custom_title=Satrio%20Utomo's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+</div>
